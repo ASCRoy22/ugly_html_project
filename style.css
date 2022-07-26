@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color:yellow;
+    background-color:rgba(45, 45, 196, 0.795);
+    
+    padding:8px;
+}
+
+.all_pokemon_container{
+    text-align:center;
+
+}
